@@ -1,0 +1,12 @@
+{
+  "name": "tv socket server",
+  "description": "tv server",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "2.0.3"
+  },
+  "devDependencies": {},
+  "private": true
+}
