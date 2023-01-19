@@ -1,5 +1,5 @@
 {
-  "name": "tv socket server",
+  "name": "zuru-socket-tv",
   "description": "tv server",
   "scripts": {
     "start": "node index.js"
