@@ -14,8 +14,8 @@ const listen = (server) => {
   return io;
 };
 
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 4443;
 
 listen(httpServer);
 httpServer.listen(port);
-console.log('server started on ', port);
+console.log('server started');
